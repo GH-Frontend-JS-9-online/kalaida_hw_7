@@ -87,5 +87,8 @@ f. Objects
 g. Classes
 -
   1. Challenge 1<br>
-    URL:  <br>
-    IMAGE: 
+    URL: https://edabit.com/challenge/Hgb38yhWGwJCMHbRQ <br>
+    IMAGE: http://prntscr.com/q9iemr
+  2. Challenge 2<br>
+    URL: https://edabit.com/challenge/s5Sz2ovKsvtGxNGgn <br>
+    IMAGE: http://prntscr.com/q9ijz6
