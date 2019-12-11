@@ -63,8 +63,8 @@ d. Functional Programming
 e. Scope
 -
   1. Challenge 1<br>
-    URL:  <br>
-    IMAGE: 
+    URL: https://edabit.com/challenge/wTQpSEZPpPdyLtK9k <br>
+    IMAGE: http://prntscr.com/q9jcyu
     
 f. Objects
 -
